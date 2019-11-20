@@ -1,0 +1,62 @@
+{
+  "c028d0632590935e18843bb9ace27b21" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f33576cc0f625037",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 'Run Protected Browser' == 'Amazon.com: ..., DVDs & more'\n  - Run Protected Browser\n  + Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more",
+      "time" : {
+        "start" : 1574213828402,
+        "stop" : 1574213830182,
+        "duration" : 1780
+      }
+    } ]
+  },
+  "4a3cdf36f1f56dc7c43066bf3e000a70" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f9746c7eb9ef7ce",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '' == 'Amazon.com: ..., DVDs & more'\n  + Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more",
+      "time" : {
+        "start" : 1574213793522,
+        "stop" : 1574213797400,
+        "duration" : 3878
+      }
+    } ]
+  },
+  "4bdc178713878c17a306112a8b10d52a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "51436f896daf5256",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 'Run Protected Browser' == 'Amazon.com: ..., DVDs & more'\n  - Run Protected Browser\n  + Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more",
+      "time" : {
+        "start" : 1574213811584,
+        "stop" : 1574213814609,
+        "duration" : 3025
+      }
+    } ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-3NSUR727",
+    "children" : [ {
+      "name" : "8452-MainThread",
+      "children" : [ {
+        "name" : "test_title",
+        "uid" : "f33576cc0f625037",
+        "parentUid" : "c65407abbc6c12f5b687f7f59886ed28",
+        "status" : "failed",
+        "time" : {
+          "start" : 1574213828402,
+          "stop" : 1574213830182,
+          "duration" : 1780
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_search",
+        "uid" : "51436f896daf5256",
+        "parentUid" : "c65407abbc6c12f5b687f7f59886ed28",
+        "status" : "failed",
+        "time" : {
+          "start" : 1574213811584,
+          "stop" : 1574213814609,
+          "duration" : 3025
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_search_airmax",
+        "uid" : "f9746c7eb9ef7ce",
+        "parentUid" : "c65407abbc6c12f5b687f7f59886ed28",
+        "status" : "failed",
+        "time" : {
+          "start" : 1574213793522,
+          "stop" : 1574213797400,
+          "duration" : 3878
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c65407abbc6c12f5b687f7f59886ed28"
+    } ],
+    "uid" : "bba7ded3f83b86d86f7e538a39b2a3d7"
+  } ]
+}
